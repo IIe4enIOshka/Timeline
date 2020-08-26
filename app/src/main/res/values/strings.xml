@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timeline</string>
+    <string name="btn_start">Старт</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_continue">Продолжить</string>
+    <string name="textdialog">Выберите событие которое было раньше.\n</string>
+</resources>
